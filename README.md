@@ -1,6 +1,6 @@
-# AddWorkshopCollection
+# deleteWorkshopCollection
 
-This is a tool to add entire collections to the download for Clients (basicly AddWorkshop in big)
+This is a tool to add entire collections to the delete for Clients (basicly AddWorkshop in big)
 
 This script adds one serverside command and function:
 
